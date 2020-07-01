@@ -11,4 +11,8 @@ Not sure how to mock a RESTful API? Then you came to the right place, just check
 - [Create a Mock REST API in Seconds for Prototyping](https://coligo.io/create-mock-rest-api-with-json-server/)
 - [JSON Server](https://github.com/typicode/json-server)
 
+## Alternatives
+
+- [mountebank - over the wire test doubles](http://www.mbtest.org/docs/api/mocks)
+
 Feel free to fork and happy coding!
